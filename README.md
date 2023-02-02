@@ -6,7 +6,7 @@ Simple project using A-Frame
 This project was made using HTML, CSS, JavaScript, A-Frame
 
 ## How to use
-View on desktop or VR 
+View on desktop (arrow keys, mouse) or VR 
 
 ## Sources
 https://github.com/stemkoski/AR.js-examples <br/>
