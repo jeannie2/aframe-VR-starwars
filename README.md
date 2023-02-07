@@ -1,5 +1,7 @@
 # A-Frame Star Wars Episode 5 Opening Crawl
 
+* same as codesandbox (AR folder): "starwars - fini": https://codesandbox.io/s/starwars-fini-h9z4cc
+
 Simple project using A-Frame
 
 ## Technologies
